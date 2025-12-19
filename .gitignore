@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Model and uploads (for privacy/security)
+deepfake_model.h5
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db
